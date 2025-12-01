@@ -88,8 +88,8 @@ Open an issue or submit a pull request — all enhancements are welcome.
 ---
 
 Author & Creator
-**
-YesadeSamiksha** — Engineer · Developer · Learner
+
+**YesadeSamiksha** — Engineer · Developer · Learner
 
 Built with passion, code and a love for clean design ❤️
 
